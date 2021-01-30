@@ -19,7 +19,8 @@
 
 ## Demo OutPut ScreenShot
 ![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20level1-1.png)
-![Scrrenshot 2](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20level1-2.png)
+
+![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20Level1-2.png)
 ## YouTube Link
 
 
