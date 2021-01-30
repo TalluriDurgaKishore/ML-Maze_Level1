@@ -26,6 +26,9 @@
 
 ## Play With ball Game Here
 
+## Technologies
+- JavaScript
+- TeachableMachine
 
 ## Resources
 - https://teachablemachine.withgoogle.com/
