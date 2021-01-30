@@ -6,8 +6,8 @@
 - 18pa1a05g4 - Harsha Vardhan
 
 ## Introduction
-- this is a simple maze game with WebCam
-- by this we can play maze game with the WebCam
+- This is a simple maze game with WebCam
+- By this we can play maze game with the WebCam
 
 ## Description
 - This is a Simple Maze Game with WebCam
@@ -18,7 +18,7 @@
 - then we linked our model with the code that we collected from github.
 
 ## Demo OutPut ScreenShot
-
+![Screenshot 1]()
 
 ## YouTube Link
 
