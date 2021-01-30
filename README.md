@@ -32,4 +32,5 @@
 
 ## Resources
 - https://teachablemachine.withgoogle.com/
+- https://github.com/Atomize101/mazeJs.git
 
