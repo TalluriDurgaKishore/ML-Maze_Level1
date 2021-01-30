@@ -2,8 +2,8 @@
 
 ## Collaborators
  
-- 18pa1a05f5 - Durga Kishore
-- 18pa1a05g4 - Harsha Vardhan
+- 18PA1A05F5 - Durga Kishore
+- 18PA1A05G4 - Harsha Vardhan
 
 ## Introduction
 - This is a simple maze game with WebCam
@@ -21,6 +21,8 @@
 ![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20level1-1.png)
 
 ![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20Level1-2.png)
+
+------------------------------------------------------------------------------------------------------------
 ## YouTube Link
 
 
