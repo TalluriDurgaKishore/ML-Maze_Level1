@@ -22,7 +22,6 @@
 
 ![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20Level1-2.png)
 
-## ------------------------------------------------------------------------------------------------------------
 ## YouTube Link
 
 
