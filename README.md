@@ -18,8 +18,8 @@
 - then we linked our model with the code that we collected from github.
 
 ## Demo OutPut ScreenShot
-![Screenshot 1]()
-
+![Screenshot 1](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20level1-1.png)
+![Scrrenshot 2](https://raw.githubusercontent.com/TalluriDurgaKishore/ML-Maze_Level1/main/ML%20level1-2.png)
 ## YouTube Link
 
 
