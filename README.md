@@ -26,7 +26,6 @@
 [![Ml2](https://img.youtube.com/vi/BgjFDRfOREE/0.jpg)](https://www.youtube.com/watch?v=BgjFDRfOREE)
 
 
-## Play With ball Game Here
 
 ## Technologies
 - JavaScript
