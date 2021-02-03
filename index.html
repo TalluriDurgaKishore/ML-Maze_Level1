@@ -102,12 +102,31 @@
             }
             
         }
-    //    labelContainer.childNodes[i].innerHTML = pred_class;
-    //    if (pred_class == "right" && (!rightDirection)){
-    //        RightDirection = true;
-    //        upDirection = false;
-    //         downDirection = false;
-    //    }
+         labelContainer.childNodes[i].innerHTML = pred_class;
+    if (pred_class == "right" && (!rightDirection)){
+           RightDirection = true;
+           upDirection = false;
+            downDirection = false;
+            leftDirection = false;
+       }
+       if (pred_class == "left" && (!leftDirection)){
+            leftDirection = true;
+            RightDirection = false;
+           upDirection = false;
+            downDirection = false;
+       }
+       if (pred_class == "up" && (!upDirection)){
+           RightDirection = false;
+           leftDirection = false;
+           upDirection = true;
+            downDirection = false;
+       }
+       if (pred_class == "down" && (!downDirection)){
+           RightDirection = false;
+           leftDirection = true;
+           upDirection = false;
+            downDirection = true;
+       }
         // finally draw the poses
         drawPose(pose);
     }
